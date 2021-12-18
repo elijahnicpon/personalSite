@@ -1,0 +1,21 @@
+body{
+  background-color: #577BC1;
+}
+
+h1 {
+  font-family: "Andale Mono", "Courier New", Courier New, monospace;
+}
+h2{
+  font-family: "Andale Mono", "Courier New", Courier New, monospace;
+}
+h4{
+  font-family: "Andale Mono", "Courier New", Courier New, monospace;
+}
+p{
+  font-family: "Andale Mono", "Courier New", Courier New, monospace;
+}
+hr.pacman{
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 7px;
+}
